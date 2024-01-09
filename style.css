@@ -4,7 +4,7 @@ body {
 
 .grid-bg {
     background: #E7E1E1;
-    background-image: url(../img/grid.svg);
+    background-image: url(img/grid.svg);
     background-size: cover;
 }
 
